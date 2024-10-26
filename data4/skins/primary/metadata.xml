@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.1.5">
+  <author>
+    <name>TYOMA!</name>
+  </author>
+  <description>Based on "Primary" Obsidian theme by Cecilia May</description>
+  <palette>
+    <color key="FgInteresting">#F2F2F2</color>
+    <color key="FgSelectedInteresting">#FFFFFF</color>
+    <color key="FgNewMessages">#85ACF6</color>
+    <color key="FgSelectedNewMessages">#D9E3F7</color>
+    <color key="FgError">#DF5656</color>
+    <color key="FgSelectedError">#910303</color>
+    <color key="Allright">#44AA44</color>
+  </palette>
+  <forced-styles></forced-styles>
+  <forced-skin-colors>true</forced-skin-colors>
+  <style-palette>
+    <group id="All">
+      <color role="Base">#2c2621</color>
+      <color role="AlternateBase">#231e1a</color>
+      <color role="ToolTipBase">#2D2F32</color>
+      <color role="Dark">#3d3429</color>
+      <color role="Midlight">#3d3429</color>
+      <color role="Mid">#3d3429</color>
+      <color role="Shadow">#3d3429</color>
+      <color role="Light">#3d3429</color>
+      <color role="Highlight">#332f2b</color>
+
+      <color role="Window">#231e1a</color>
+      <color role="Button">#28231e</color>
+
+      <color role="Text">#e6cfb3</color>
+      <color role="BrightText">#e6cfb3</color>
+      <color role="HighlightedText">#e6cfb3</color>
+      <color role="PlaceholderText">#e6cfb3</color>
+      <color role="ToolTipText">#e6cfb3</color>
+      <color role="ButtonText">#e6cfb3</color>
+      <color role="WindowText">#e6cfb3</color>
+      <color role="Link">#ebc400</color>
+      <color role="LinkVisited">#ebc400</color>
+
+      <color role="NoRole">#000</color>
+    </group>
+
+    <group id="Disabled">
+      <color role="Text">#5d4e3c</color>
+      <color role="ButtonText">#5d4e3c</color>
+      <color role="WindowText">#5d4e3c</color>
+    </group>
+  </style-palette>
+</skin>
+<!--
+    vim:ts=2:sw=2:et:
+    -->
