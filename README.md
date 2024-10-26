@@ -26,6 +26,13 @@ someday... or not.
 9. Restart RSS Guard.
 
 ## Credits:
+Obvious thanks to Martin Rotter for creating RSS Guard 
+licensed under GPLv3), which this skin is made for.
+Also because he made some subtle changes to the code and 
+gave some tips/help on skinning in the Discord.
+- https://github.com/martinrotter/rssguard
+- https://www.gnu.org/licenses/gpl-3.0.en.html
+
 Heavily inspired by Cecilia May's "Primary" theme made 
 for Obsidian, which is licensed under GPLv3.
 - https://github.com/primary-theme/obsidian
